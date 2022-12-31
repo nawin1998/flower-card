@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+}
+.card{
+    background-color: black;
+    height: 500px;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 35%;
+    border-radius: 8px;
+}
+img{
+    height: 250px;
+    width: 400px;
+    border-radius: 8px;
+}
+.pin{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+p{
+    font-size: large;
+    color: white;
+    margin-top: 6px;
+    margin-left: 15px;
+}
+button{
+    font-size: large;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 45px;
+    margin-left: 40%;
+}
+button:hover{
+    color: red;
+}
